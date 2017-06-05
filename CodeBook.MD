@@ -1,9 +1,10 @@
 Code Book explains the variable in the data set.
 
-subject - The ID of the test subject
-ActivityNum - The type of activity performed when the corresponding measurements were taken.
+1) subject - The ID of the test subject
+2) ActivityNum - The type of activity performed when the corresponding measurements were taken
 
-Measurements:
+3) Measurements:
+
 timeBodyAccelerometer-MEAN()-X
 timeBodyAccelerometer-MEAN()-Y
 timeBodyAccelerometer-MEAN()-Z
@@ -84,7 +85,7 @@ frequencyBodyGyroscopeJerkMagnitude-MEAN()
 frequencyBodyGyroscopeJerkMagnitude-SD()
 frequencyBodyGyroscopeJerkMagnitude-MEANFreq()
 
-ActivityName Description:
+4) ActivityName Description:
 Activity number: 1 (WALKING )
 	Subject walking during the data collection
 Activity number: 2 (WALKING_UPSTAIRS)
