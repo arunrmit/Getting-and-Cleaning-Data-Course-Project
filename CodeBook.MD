@@ -4,7 +4,7 @@
 	subject - The ID of the test subject
 	ActivityNum - The type of activity performed when the corresponding measurements were taken.
 
-Measurements:
+### Measurements:
 
 	timeBodyAccelerometer-MEAN()-X 
 	timeBodyAccelerometer-MEAN()-Y 
@@ -86,7 +86,7 @@ Measurements:
 	frequencyBodyGyroscopeJerkMagnitude-SD()
 	frequencyBodyGyroscopeJerkMagnitude-MEANFreq()
 
-ActivityName Description:
+### ActivityName Description:
 
 	Activity number: 1 (WALKING)
 		Subject walking during the data collection
