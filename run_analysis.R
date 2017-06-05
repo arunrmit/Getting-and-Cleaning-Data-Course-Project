@@ -84,5 +84,5 @@
   ExtractMeanSD$ActivityName <- as.character(ExtractMeanSD$ActivityName)
   dataAggr<- aggregate(. ~ subject - ActivityName, data = ExtractMeanSD, mean) 
   ExtractMeanSD<- tbl_df(arrange(dataAggr,subject,ActivityName))
-  write.table(ExtractMeanSD, "SecIndependentTidy.txt", row.names = FALSE)
+  write.table(ExtractMeanSD, "TidyDataSet.txt", row.names = FALSE)
 
