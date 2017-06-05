@@ -86,18 +86,18 @@
 	frequencyBodyGyroscopeJerkMagnitude-SD()
 	frequencyBodyGyroscopeJerkMagnitude-MEANFreq()
 
-### ActivityName Description:
+##### ActivityName Description:
 
-	Activity number: 1 (WALKING)
+###### Activity number: 1 (WALKING)
 		Subject walking during the data collection
-	Activity number: 2 (WALKING_UPSTAIRS)
+###### Activity number: 2 (WALKING_UPSTAIRS)
 	Subject claiming up in the stairs during the data collection
-	Activity number: 3 (WALKING_DOWNSTAIRS)
+###### Activity number: 3 (WALKING_DOWNSTAIRS)
 	Subject claiming down in the stairs during the data collection
-	Activity number: 4 (SITTING)
+###### Activity number: 4 (SITTING)
 	Subject sitting during the data collection
-	Activity number: 5 (STANDING)
+###### Activity number: 5 (STANDING)
 	Subject standing during the data collection
-	Activity number: 6 (LAYING)
+###### Activity number: 6 (LAYING)
 	Subject laying during the data collection
 
