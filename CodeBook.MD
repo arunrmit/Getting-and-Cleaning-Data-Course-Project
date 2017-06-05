@@ -4,9 +4,9 @@ subject - The ID of the test subject
 ActivityNum - The type of activity performed when the corresponding measurements were taken.
 
 Measurements:
-timeBodyAccelerometer-MEAN()-X
-timeBodyAccelerometer-MEAN()-Y
-timeBodyAccelerometer-MEAN()-Z
+timeBodyAccelerometer-MEAN()-X 
+timeBodyAccelerometer-MEAN()-Y 
+timeBodyAccelerometer-MEAN()-Z 
 timeBodyAccelerometer-SD()-X
 timeBodyAccelerometer-SD()-Y
 timeBodyAccelerometer-SD()-Z
