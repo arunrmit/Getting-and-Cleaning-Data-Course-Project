@@ -1,4 +1,4 @@
-### Getting-and-Cleaning-Data-Course-Project
+### Getting and Cleaning Data (Course Project)
 ____________________________________________________________________________________________________________________
 
 This is the course assignment on Coursera for Getting and Cleaning Data project. 
